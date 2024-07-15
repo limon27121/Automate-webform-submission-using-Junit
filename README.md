@@ -17,3 +17,13 @@ This project automates the submission of a web form available at [Digital Unite 
    cd webform-automation
 ## Overview
 This project automates the submission of a web form available at Digital Unite Practice Web Form. It uses Selenium WebDriver with Node.js to interact with the web form, fill in necessary fields, upload a file, submit the form, and verify the success message upon submission.
+
+## Key Features
+
+- **Automated Form Submission**: Navigate to the web form URL and fill out required fields programmatically.
+  
+- **File Upload Support**: Ability to upload a file (up to 2MB) as part of the form submission process.
+  
+- **Success Message Verification**: Script waits for and verifies the appearance of the success message ("Thank you for your submission!") on the web page.
+  
+- **Logging**: Console logs indicate whether the form submission was successful or if any errors occurred during the process.
