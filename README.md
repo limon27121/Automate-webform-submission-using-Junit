@@ -27,3 +27,8 @@ This project automates the submission of a web form available at Digital Unite P
 - **Success Message Verification**: Script waits for and verifies the appearance of the success message ("Thank you for your submission!") on the web page.
   
 - **Logging**: Console logs indicate whether the form submission was successful or if any errors occurred during the process.
+
+
+
+##Purpose
+The primary purpose of this project is to demonstrate automated testing capabilities using Selenium WebDriver and Node.js. By automating the web form submission, it showcases how repetitive manual tasks can be efficiently handled through script automation, ensuring accuracy and reliability in testing scenarios.
