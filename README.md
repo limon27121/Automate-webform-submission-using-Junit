@@ -47,7 +47,8 @@ The primary purpose of this project is to demonstrate automated testing capabili
 ## Results
 # report Picture
 <img src="report.png" alt="report picture" width="900">
-## Conclusion
+
+## Results
   By automating the web form submission process, this project aims to illustrate the benefits of automated testing in improving efficiency and reliability in 
   software testing practices.
 
