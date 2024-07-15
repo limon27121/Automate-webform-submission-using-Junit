@@ -48,9 +48,7 @@ The primary purpose of this project is to demonstrate automated testing capabili
 # report Picture
 <img src="report.png" alt="report picture" width="900">
 
-## Report
 
-You can view the test report [here](https://drive.google.com/file/d/1PcGOSNmuwP6hLF3WhsZhPoCMWCXljMpA/view?usp=sharing).
 
 
 
