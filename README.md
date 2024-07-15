@@ -30,5 +30,6 @@ This project automates the submission of a web form available at Digital Unite P
 
 
 
-##Purpose
+## Purpose
 The primary purpose of this project is to demonstrate automated testing capabilities using Selenium WebDriver and Node.js. By automating the web form submission, it showcases how repetitive manual tasks can be efficiently handled through script automation, ensuring accuracy and reliability in testing scenarios.
+
