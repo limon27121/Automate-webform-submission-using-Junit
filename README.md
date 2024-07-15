@@ -44,6 +44,9 @@ The primary purpose of this project is to demonstrate automated testing capabili
 - **Demonstration**: Serve as a practical example of using Selenium WebDriver for web automation tasks.
 
 
+## Results
+# report Picture
+<img src="report.png" alt="report picture" width="900">
 ## Conclusion
   By automating the web form submission process, this project aims to illustrate the benefits of automated testing in improving efficiency and reliability in 
   software testing practices.
