@@ -50,7 +50,7 @@ The primary purpose of this project is to demonstrate automated testing capabili
 
 ## Report
 
-You can view the test report [here](reports/tests/test/index.html).
+You can view the test report [here](file:///D:/SQA/Assignment/Assignment_on_Junit/build/reports/tests/test/index.html).
 
 
 ## Conclusion
